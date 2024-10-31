@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyAnalytics\n"
+"POT-Creation-Date: 2018-11-09 10:59+0100\n"
+"PO-Revision-Date: 2018-11-09 11:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: Tom Baumgarten\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: myanalytics.php:30 myanalytics.php:61
+msgid ""
+"We use Google Analytics. By continuing to navigate, you authorize us to drop "
+"a cookie for the purpose of audience measurement."
+msgstr ""
+"Nous utilisons Google Analytics. En continuant à naviguer, vous nous "
+"autorisez à déposer un cookie à des fins de mesures d'audience."
+
+#: myanalytics.php:34 myanalytics.php:65
+msgid "You have enabled DoNotTrack, we respect your choice."
+msgstr "Vous avez activé DoNotTrack, nous respectons votre choix."
+
+#: myanalytics.php:38 myanalytics.php:69
+msgid "You objected to drop a cookie for the purpose of audience measurement."
+msgstr "Vous avez refusé le dépot des cookies de mesures d'audience."
+
+#: myanalytics.php:100 myanalytics.php:111
+msgid "Settings"
+msgstr "Paramètres"
+
+#: myanalytics.php:102
+msgid "Analytics Code"
+msgstr "Code Analytics"
+
+#: myanalytics.php:103
+msgid "Message"
+msgstr "Message"
+
+#: myanalytics.php:104
+msgid "Message if DNT is enabled"
+msgstr "Message si DNT est activé"
+
+#: myanalytics.php:105
+msgid "Message for objection"
+msgstr "Message de refus"
+
+#: myanalytics.php:106
+msgid "Webmaster Tools are used"
+msgstr "Les Webmaster Tools sont utilisés"
